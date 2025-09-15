@@ -65,9 +65,3 @@ streamlit run signup.py
 - **YUNS2AM**
 - GitHub: [https://github.com/YUNS2AM](https://github.com/YUNS2AM)
 
-
-## 👨‍💻 개발자
-
-YUNS2AM
-
-GitHub: your-profile-link
